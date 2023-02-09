@@ -3,8 +3,6 @@ My work on a project "Data-driven approaches for predicting an asset price over 
 
 # Results
 - Made a High Frequency Taking strategy that earns 12% daily yield with 15% MDD**.
-- This strategy can be found in https://github.com/ChistyakovArtem/CMF_HFMM/blob/main/TechCore/Strategies/ML_Strategies/ML_Stoikov.py.
-- Fitting of this straategy - here https://github.com/ChistyakovArtem/CMF_HFMM/blob/main/Notebooks/ML_1-Stoikov-with-ML(Model-Fitter).ipynb.
 - Running process and results - here https://github.com/ChistyakovArtem/CMF_HFMM/blob/main/Notebooks/ML_1-Stoikov-with-ML.ipynb.
 
 # Strategy description

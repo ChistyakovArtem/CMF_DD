@@ -1,5 +1,5 @@
 # CMF_DD
-My work on a project "Data-driven approaches for predicting an asset price over a mid-term horison" in the Center of Mathematical Finances.
+My work on a project "Data-driven approaches for predicting an asset price over a short-term horison" in the Center of Mathematical Finances.
 
 # Results
 - Made a High Frequency Taking strategy that earns **12% daily yield with 15% MDD**.
